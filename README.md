@@ -6,8 +6,10 @@ What this app does:
 ```java
 - Asking user to select items from provided menu.
 - Adding dishes to dish list if user successfully select an item.
+- Allowing user to edit items before final submission.
 - Allowing user to delete items before final submission.
 - Storing the item list once user click "submit" button
+- Saving items list automatically then user can see the list exactly same as last time.
 ```
 
 Note:
